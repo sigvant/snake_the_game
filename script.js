@@ -6,7 +6,7 @@ snake[0] = {
 	x: 8 * box,
 	y: 8 * box
 }
-let score = 0;
+// let score = 0;
 
 let direction = "right";
 let food = {
